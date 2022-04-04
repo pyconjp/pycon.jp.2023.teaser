@@ -45,11 +45,29 @@
       </div>
       <div class="flex content-center justify-center">
         <p class="pt-5 text-2xl text-center en-regular-font">
-          Conference: Planning
+          Conference: Oct.14(Fri)-15(Sat), 2022
         </p>
       </div>
       <div class="flex content-center justify-center">
-        <p class="text-sm jp-regular-font">開催日: 調整中</p>
+        <p class="text-2xl text-center en-regular-font">
+          Sprint: Oct.16(Sun), 2022
+        </p>
+      </div>
+      <div class="flex content-center justify-center">
+        <p class="text-2xl text-center en-regular-font">
+          Venue: TOC Ariake Convention Hall
+        </p>
+      </div>
+      <div class="pt-3 flex content-center justify-center">
+        <p class="text-sm jp-regular-font">
+          カンファレンス: 2022年10月14日(金)-15日(土)
+        </p>
+      </div>
+      <div class="flex content-center justify-center">
+        <p class="text-sm jp-regular-font">スプリント: 2022年10月16日(日)</p>
+      </div>
+      <div class="flex content-center justify-center">
+        <p class="text-sm jp-regular-font">会場: TOC有明コンベンションホール</p>
       </div>
     </div>
 
@@ -97,11 +115,13 @@ export default {}
   -webkit-animation-delay: 0s;
   animation-delay: 0s;
 }
+
 .arrow-area .arrow:nth-of-type(2) {
   top: 16px;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 }
+
 .arrow-area .arrow:nth-of-type(3) {
   top: 32px;
   -webkit-animation-delay: 0.3s;
@@ -127,6 +147,7 @@ export default {}
     opacity: 0;
   }
 }
+
 @keyframes sdb {
   0% {
     opacity: 0;
@@ -143,12 +164,15 @@ export default {}
   .top-content {
     height: 608px;
   }
+
   .title {
     font-size: 48px;
   }
+
   .sub-title {
     font-size: 24px;
   }
+
   .rectangle {
     position: absolute;
     width: 247px;
@@ -159,6 +183,7 @@ export default {}
     background: rgba(255, 255, 255, 0.2);
     transform: rotate(45deg);
   }
+
   .fireworks-red-1 {
     display: none;
   }
@@ -169,18 +194,21 @@ export default {}
     top: 220px;
     width: 120px;
   }
+
   .fireworks-yellow-1 {
     position: absolute;
     right: 20px;
     bottom: 20px;
     width: 180px;
   }
+
   .fireworks-yellow-2 {
     position: absolute;
     left: 100px;
     top: 40px;
     width: 160px;
   }
+
   .fireworks-yellow-3 {
     position: absolute;
     left: 20px;
@@ -188,16 +216,20 @@ export default {}
     width: 120px;
   }
 }
+
 @media screen and (min-width: 600px) {
   .top-content {
     height: calc(100vh - 70px);
   }
+
   .title {
     font-size: 56px;
   }
+
   .sub-title {
     font-size: 32px;
   }
+
   .rectangle {
     position: absolute;
     width: 321px;
@@ -208,28 +240,33 @@ export default {}
     background: rgba(255, 255, 255, 0.2);
     transform: rotate(45deg);
   }
+
   .fireworks-red-1 {
     position: absolute;
     top: -20px;
     width: 400px;
   }
+
   .fireworks-red-2 {
     position: absolute;
     right: 0;
     width: 200px;
   }
+
   .fireworks-yellow-1 {
     position: absolute;
     right: 50px;
     bottom: 20px;
     width: 350px;
   }
+
   .fireworks-yellow-2 {
     position: absolute;
     left: 200px;
     bottom: 40px;
     width: 300px;
   }
+
   .fireworks-yellow-3 {
     position: absolute;
     left: 100px;
