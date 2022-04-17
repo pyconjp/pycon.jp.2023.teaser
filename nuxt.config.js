@@ -34,11 +34,11 @@ export default {
         content:
           'PyCon JPは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
       },
-      // {
-      //   hid: 'og:image',
-      //   property: 'og:image',
-      //   content: 'https://2022.pycon.jp/logo.png',
-      // },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: 'https://2022.pycon.jp/pyconjp2022_ogp.jpg',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
