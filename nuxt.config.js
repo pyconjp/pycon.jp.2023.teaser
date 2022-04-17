@@ -50,7 +50,7 @@ export default {
         content: 'https://2022.pycon.jp/pyconjp2022_ogp.jpg',
       },
       {
-        hid: '',
+        hid: 'twitter:site',
         name: 'twitter:site',
         content: '@pyconjapan',
       },
