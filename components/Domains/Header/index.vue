@@ -142,7 +142,7 @@ export default {
           disable: false,
         },
         {
-          text: 'STAFF',
+          text: 'VOLUNTEER',
           link: 'https://pyconjp.blogspot.com/2022/02/pycon-jp-2022.html',
           disable: false,
         },
