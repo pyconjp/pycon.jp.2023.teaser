@@ -18,7 +18,7 @@
         >
           <div>
             <p class="pt-5 text-2xl text-center en-regular-font">
-              We need staff
+              We need volunteers
             </p>
             <p class="pt-2 text-sm text-center jp-title-font">
               スタッフ募集中！
