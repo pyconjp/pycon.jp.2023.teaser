@@ -1,5 +1,9 @@
 <template>
-  <button @click="openOtherWindow">
+  <button
+    class="disabled:opacity-50"
+    :disabled="idDisabled"
+    @click="openOtherWindow"
+  >
     <div class="border">
       <div class="text">
         <slot>Button</slot>
@@ -17,9 +21,16 @@ export default {
       required: true,
     },
   },
+  computed: {
+    idDisabled() {
+      return this.link === ''
+    },
+  },
   methods: {
     openOtherWindow() {
-      window.open(this.link, '', 'noopener')
+      if (!this.idDisabled) {
+        window.open(this.link, '', 'noopener')
+      }
     },
   },
 }
@@ -35,12 +46,16 @@ button {
   background-color: rgba(169, 136, 73);
 }
 
-button:hover {
+button:hover:not([disabled]) {
   background: rgba(169, 136, 73, 0.6);
 }
 
-button:hover .button-border {
+button:hover:not([disabled]) .button-border {
   left: 93%;
+}
+
+button:disabled {
+  cursor: default;
 }
 
 .border {

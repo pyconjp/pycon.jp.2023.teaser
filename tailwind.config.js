@@ -19,13 +19,15 @@ module.exports = {
       oswald: 'Oswald',
     },
     screens: {
-      'sm': '600px',
-      'md': '768px',
-      'lg': '1024px',
-      'xl': '1280px',
+      sm: '600px',
+      md: '768px',
+      lg: '1024px',
+      xl: '1280px',
       '2xl': '1536px',
-    }
+    },
   },
-  variants: {},
+  variants: {
+    opacity: ['responsive', 'hover', 'focus', 'disabled'],
+  },
   plugins: [],
 }
