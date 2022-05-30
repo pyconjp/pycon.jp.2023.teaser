@@ -29,9 +29,11 @@
             <p class="pt-1 text-sm text-center jp-title-font">
               詳しくは下のボタンから
             </p>
-            <MyButton link="https://pretalx.com/pyconjp2022/cfp">See More</MyButton>
+            <MyButton link="https://pretalx.com/pyconjp2022/cfp"
+              >See More</MyButton
+            >
           </div>
-          <div>
+          <div class="mt-10 sm:mt-0">
             <p class="pt-5 text-2xl text-center en-regular-font">
               We need volunteers
             </p>
@@ -46,32 +48,20 @@
               >See More</MyButton
             >
           </div>
-          <div class="mt-10 sm:mt-10 sm:col-span-2">
+          <div class="mt-10 sm:mt-0 sm:col-span-2">
             <p class="pt-5 text-2xl text-center en-regular-font">
               Please be our sponsor!
             </p>
             <p class="pt-2 text-sm text-center jp-title-font">
-              スポンサー募集
-            </p>
-            <p class="pt-1 text-sm text-center jp-title-font">
-              準備中！
-            </p>
-            <MyButton link="">Coming Soon</MyButton>
-          </div>
-          <!--
-          <div class="mt-10 sm:mt-10 sm:col-span-2">
-            <p class="pt-5 text-2xl text-center en-regular-font">
-              Please be our sponsor!
-            </p>
-            <p class="pt-2 text-sm text-center jp-title-font">
-              スポンサー募集開始しました。
+              スポンサー募集中！
             </p>
             <p class="pt-1 text-sm text-center jp-title-font">
               詳しくは下のボタンから
             </p>
-            <MyButton link="">See More</MyButton>
+            <MyButton link="https://forms.gle/j8F3uknBkZFcm6L96"
+              >See More</MyButton
+            >
           </div>
-          -->
         </div>
       </div>
     </div>
