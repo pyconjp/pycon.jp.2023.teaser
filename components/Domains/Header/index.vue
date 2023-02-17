@@ -138,12 +138,12 @@ export default {
       linkList: [
         {
           text: 'NEWS',
-          link: 'https://pyconjp.blogspot.com/search/label/pyconjp2022',
+          link: 'https://pyconjp.blogspot.com/search/label/pyconjp2023',
           disable: false,
         },
         {
           text: 'VOLUNTEER',
-          link: 'https://pyconjp.blogspot.com/2022/02/pycon-jp-2022.html',
+          link: 'https://pyconjp.blogspot.com/2023/01/pycon-jp-2023.html',
           disable: false,
         },
         {

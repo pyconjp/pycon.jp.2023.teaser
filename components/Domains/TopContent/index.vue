@@ -33,7 +33,7 @@
     <div class="relative mt-24">
       <div class="rectangle"></div>
       <div class="flex content-center justify-center mt-12">
-        <h1 class="inline title en-title-font">PyCon JP 2022</h1>
+        <h1 class="inline title en-title-font">PyCon JP 2023</h1>
       </div>
       <div class="flex content-center justify-center">
         <p class="inline sub-title en-title-font">
@@ -45,29 +45,29 @@
       </div>
       <div class="flex content-center justify-center">
         <p class="pt-5 text-2xl text-center en-regular-font">
-          Conference: Oct.14(Fri)-15(Sat), 2022
+          Conference: Oct.XX(XX)-XX(XX), 2023
         </p>
       </div>
       <div class="flex content-center justify-center">
         <p class="text-2xl text-center en-regular-font">
-          Sprint: Oct.16(Sun), 2022
+          Sprint: Oct.XX(XX), 2023
         </p>
       </div>
       <div class="flex content-center justify-center">
         <p class="text-2xl text-center en-regular-font">
-          Venue: TOC Ariake Convention Hall
+          Venue: TBD
         </p>
       </div>
       <div class="pt-3 flex content-center justify-center">
         <p class="text-sm jp-regular-font">
-          カンファレンス: 2022年10月14日(金)-15日(土)
+          カンファレンス: 2023年10月XX日(X)-XX日(X)
         </p>
       </div>
       <div class="flex content-center justify-center">
-        <p class="text-sm jp-regular-font">スプリント: 2022年10月16日(日)</p>
+        <p class="text-sm jp-regular-font">スプリント: 2023年10月XX日(X)</p>
       </div>
       <div class="flex content-center justify-center">
-        <p class="text-sm jp-regular-font">会場: TOC有明コンベンションホール</p>
+        <p class="text-sm jp-regular-font">会場: 未定</p>
       </div>
     </div>
 

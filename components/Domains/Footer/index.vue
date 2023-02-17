@@ -18,7 +18,7 @@
               主催:一般社団法人 PyCon JP Association
             </p>
             <p class="text-sm jp-regular-font">
-              PyCon JP 2022 in Tokyo is produced by the
+              PyCon JP 2023 in Tokyo is produced by the
               <a
                 href="https://www.pycon.jp/committee/english.html"
                 target="_blank"
@@ -30,7 +30,7 @@
             </p>
             <p class="text-sm jp-regular-font">
               For the latest information and contact information for PyCon JP
-              2022, please visit
+              2023, please visit
               <a
                 href="https://pyconjp.blogspot.com/"
                 target="_blank"

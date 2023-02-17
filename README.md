@@ -1,4 +1,4 @@
-# pycon.jp.2022.teaser
+# pycon.jp.2023.teaser
 
 ## 初期設定
 
@@ -12,12 +12,12 @@ $ nvm install
 
 ## 開発について
 
-developブランチにマージすると、自動的に開発環境にデプロイされます
-masterブランチにマージすると、自動的に本番環境にデプロイされます
+devブランチにマージすると、自動的に開発環境にデプロイされます
+mainブランチにマージすると、自動的に本番環境にデプロイされます
 ただし、masterへのマージは必ず一人の承認が必要です(間違ってデプロイされることを防ぐため)
 
-developブランチには、原則直接プッシュせず、プルリクを作成してください
-developへのプルリクはセルフマージしてもらって大丈夫です
+devブランチには、原則直接プッシュせず、プルリクを作成してください
+devへのプルリクはセルフマージしてもらって大丈夫です
 
 ## Build Setup
 
@@ -38,6 +38,16 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
+### Tips
 
+- proxy配下でのyarn install 方法
 
+```bash
+ yarn config set proxy http://example.com:port -g
+```
 
+- hash check error の回避方法
+
+```bash
+yarn --update-checksums
+```
