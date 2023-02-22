@@ -32,7 +32,7 @@ export default {
         hid: 'og:description',
         property: 'og:description',
         content:
-          'PyCon JPは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
+          'PyCon APACは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
       },
       {
         hid: 'og:image',
