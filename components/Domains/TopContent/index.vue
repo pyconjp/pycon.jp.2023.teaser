@@ -50,7 +50,7 @@
       </div>
       <div class="flex content-center justify-center">
         <p class="text-2xl text-center en-regular-font">
-          Sprint: late in Octber, 2023
+          Sprint: late in October, 2023
         </p>
       </div>
       <div class="flex content-center justify-center">
