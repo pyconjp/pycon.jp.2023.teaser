@@ -45,7 +45,7 @@
       </div>
       <div class="flex content-center justify-center">
         <p class="pt-5 text-2xl text-center en-regular-font">
-          Conference: late in Octber, 2023
+          Conference: late in October, 2023
         </p>
       </div>
       <div class="flex content-center justify-center">
