@@ -51,3 +51,28 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ```bash
 yarn --update-checksums
 ```
+
+
+## Install Tips.
+
+### How to install nodejs, npm - WSL Ubuntu 22.04LTS
+
+```bash
+ sudo apt install nodejs npm
+```
+
+### How to install nvm
+
+- https://www.freecodecamp.org/japanese/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
+
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+```
+
+### How to install yarn
+
+- https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+
+```bash
+npm install --global yarn
+```
