@@ -45,12 +45,7 @@
       </div>
       <div class="flex content-center justify-center">
         <p class="pt-5 text-2xl text-center en-regular-font">
-          Conference: late in October, 2023
-        </p>
-      </div>
-      <div class="flex content-center justify-center">
-        <p class="text-2xl text-center en-regular-font">
-          Sprint: late in October, 2023
+          Conference: Oct.27 - 29, 2023
         </p>
       </div>
       <div class="flex content-center justify-center">
@@ -60,11 +55,8 @@
       </div>
       <div class="pt-3 flex content-center justify-center">
         <p class="text-sm jp-regular-font">
-          カンファレンス: 2023年10月下旬
+          カンファレンス: 2023年10月27日-29日
         </p>
-      </div>
-      <div class="flex content-center justify-center">
-        <p class="text-sm jp-regular-font">スプリント: 2023年10月下旬</p>
       </div>
       <div class="flex content-center justify-center">
         <p class="text-sm jp-regular-font">会場: TOC有明コンベンションホール</p>
