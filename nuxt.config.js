@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'PyCon APAC 2023',
+    title: 'PyCon JP 2023',
     htmlAttrs: {
       lang: 'ja',
     },
@@ -18,21 +18,21 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'PyCon APACは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
+          'PyCon JPは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
       },
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: 'PyCon APAC 2023',
+        content: 'PyCon JP 2023',
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       { hid: 'og:url', property: 'og:url', content: 'https://2023.pycon.jp' },
-      { hid: 'og:title', property: 'og:title', content: 'PyCon APAC 2023' },
+      { hid: 'og:title', property: 'og:title', content: 'PyCon JP 2023' },
       {
         hid: 'og:description',
         property: 'og:description',
         content:
-          'PyCon APACは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
+          'PyCon JPは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。',
       },
       {
         hid: 'og:image',
