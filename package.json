@@ -1,5 +1,5 @@
 {
-  "name": "pycon.jp.2022.teaser",
+  "name": "pycon.jp.2023.teaser",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001457",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12",
     "nuxt-i18n": "^6.21.0"

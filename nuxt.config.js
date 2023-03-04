@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'PyCon JP 2022',
+    title: 'PyCon JP 2023',
     htmlAttrs: {
       lang: 'ja',
     },
@@ -23,11 +23,11 @@ export default {
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: 'PyCon JP 2022',
+        content: 'PyCon JP 2023',
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://2022.pycon.jp' },
-      { hid: 'og:title', property: 'og:title', content: 'PyCon JP 2022' },
+      { hid: 'og:url', property: 'og:url', content: 'https://2023.pycon.jp' },
+      { hid: 'og:title', property: 'og:title', content: 'PyCon JP 2023' },
       {
         hid: 'og:description',
         property: 'og:description',
@@ -37,7 +37,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://2022.pycon.jp/pyconjp2022_ogp.jpg',
+        content: 'https://2023.pycon.jp/pyconjp2023_ogp.jpg',
       },
       {
         hid: 'twitter:card',
@@ -47,7 +47,7 @@ export default {
       {
         hid: 'twitter:image:src',
         name: 'twitter:image:src',
-        content: 'https://2022.pycon.jp/pyconjp2022_ogp.jpg',
+        content: 'https://2023.pycon.jp/pyconjp2023_ogp.jpg',
       },
       {
         hid: 'twitter:site',
