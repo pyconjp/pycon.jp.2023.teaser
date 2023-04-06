@@ -18,7 +18,7 @@
               主催:一般社団法人 PyCon JP Association
             </p>
             <p class="text-sm jp-regular-font">
-              PyCon APAC 2023 in Japan hosted by PyCon JP is produced by the
+              PyCon APAC 2023 hosted by PyCon JP is produced by the
               <a
                 href="https://www.pycon.jp/committee/english.html"
                 target="_blank"
