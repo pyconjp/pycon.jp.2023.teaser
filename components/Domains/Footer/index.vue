@@ -30,7 +30,7 @@
             </p>
             <p class="text-sm jp-regular-font">
               For the latest information and contact information for PyCon APAC
-              2023 in Japan, please visit
+              2023, please visit
               <a
                 href="https://pyconjp.blogspot.com/"
                 target="_blank"
