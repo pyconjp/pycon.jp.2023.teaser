@@ -8,7 +8,7 @@
           <p>何卒お待ちいただけますようにお願いします。</p>
         </div>
         <div class="mt-4 text-sm en-regular-font">
-          <p>PyCon JP is organized by volunteers, so it may take a week for us to reply to inquiries.</p>
+          <p>PyCon APAC 2023 is organized by volunteers, so it may take a week for us to reply to inquiries.</p>
           <p>Thank you for your patience.</p>
         </div>
       </div>

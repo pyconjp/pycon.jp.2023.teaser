@@ -33,7 +33,7 @@
     <div class="relative mt-24">
       <div class="rectangle"></div>
       <div class="flex content-center justify-center mt-12">
-        <h1 class="inline title en-title-font">PyCon JP 2023</h1>
+        <h1 class="inline title en-title-font">PyCon APAC 2023</h1>
       </div>
       <div class="flex content-center justify-center">
         <p class="inline sub-title en-title-font">
