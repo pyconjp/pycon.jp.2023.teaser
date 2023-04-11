@@ -37,7 +37,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://2023.pycon.jp/pyconjp2023_ogp.jpg',
+        content: 'https://2023-apac.pycon.jp/pyconapac2023_ogp.png',
       },
       {
         hid: 'twitter:card',
@@ -47,7 +47,7 @@ export default {
       {
         hid: 'twitter:image:src',
         name: 'twitter:image:src',
-        content: 'https://2023.pycon.jp/pyconjp2023_ogp.jpg',
+        content: 'https://2023-apac.pycon.jp/pyconapac2023_ogp.png',
       },
       {
         hid: 'twitter:site',
