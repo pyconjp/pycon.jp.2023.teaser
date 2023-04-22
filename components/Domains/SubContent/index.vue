@@ -10,18 +10,10 @@
 
     <div class="flex content-center justify-center mb-20 sm:mb-32">
       <div class="w-4/6">
-        <!-- TODO:
-          コンテンツの要素が2個になった場合は、以下のsm:grid-cols-1をsm:grid-cols-2に変更すること
-        -->
-        <div
-          class="grid items-center content-center grid-cols-1 sm:grid-cols-1 justify-items-center"
-        >
-        <!--
         <div
           class="grid items-center content-center grid-cols-1 sm:grid-cols-2 justify-items-center"
         >
-        -->
-          <div style="display:none;" class="mt-10 sm:mt-0">
+          <div class="mt-10 sm:mt-0">
             <p class="pt-5 text-2xl text-center en-regular-font">
               Won't you be a speaker?
             </p>
@@ -29,8 +21,8 @@
             <p class="p t-1 text-sm text-center jp-title-font">
               詳しくは下のボタンから
             </p>
-            <MyButton disabled link="https://pretalx.com/pyconjp2022/cfp"
-              >Coming Soon</MyButton
+            <MyButton link="https://pretalx.com/pyconapac2023/cfp"
+              >See More</MyButton
             >
           </div>
           <div class="mt-10 sm:mt-0">
