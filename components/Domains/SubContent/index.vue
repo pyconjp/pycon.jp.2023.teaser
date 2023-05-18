@@ -40,7 +40,7 @@
               >See More</MyButton
             >
           </div>
-          <div style="display:none;" class="mt-10 sm:mt-0 sm:col-span-2">
+          <div class="mt-10 sm:mt-0 sm:col-span-2">
             <p class="pt-5 text-2xl text-center en-regular-font">
               Please be our sponsor!
             </p>
@@ -50,8 +50,9 @@
             <p class="pt-1 text-sm text-center jp-title-font">
               詳しくは下のボタンから
             </p>
-            <MyButton disabled link="https://pretalx.com/pyconjp2022/cfp"
-              >Coming Soon</MyButton
+            <MyButton
+              link="https://pyconjp.blogspot.com/2023/05/pycon-apac-2023-sponsorship-jp.html"
+              >See More</MyButton
             >
           </div>
         </div>
