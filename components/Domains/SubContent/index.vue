@@ -51,7 +51,7 @@
               詳しくは下のボタンから
             </p>
             <MyButton
-              link="https://pyconjp.blogspot.com/2023/05/pycon-apac-2023-sponsorship-jp.html"
+              link="https://forms.gle/vHW5TSeZFWY3rgKW9"
               >See More</MyButton
             >
           </div>
