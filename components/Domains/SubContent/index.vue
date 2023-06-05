@@ -18,11 +18,9 @@
               Won't you be a speaker?
             </p>
             <p class="pt-2 text-sm text-center jp-title-font">登壇者募集</p>
-            <p class="p t-1 text-sm text-center jp-title-font">
-              詳しくは下のボタンから
-            </p>
-            <MyButton link="https://pretalx.com/pyconapac2023/cfp"
-              >See More</MyButton
+            <p class="pt-1 text-sm text-center jp-title-font">終了しました</p>
+            <MyButton disabled link="https://pretalx.com/pyconjp2022/cfp"
+              >Closed</MyButton
             >
           </div>
           <div class="mt-10 sm:mt-0">
