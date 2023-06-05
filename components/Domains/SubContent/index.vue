@@ -15,18 +15,6 @@
         >
           <div class="mt-10 sm:mt-0">
             <p class="pt-5 text-2xl text-center en-regular-font">
-              Won't you be a speaker?
-            </p>
-            <p class="pt-2 text-sm text-center jp-title-font">登壇者募集</p>
-            <p class="p t-1 text-sm text-center jp-title-font">
-              詳しくは下のボタンから
-            </p>
-            <MyButton link="https://pretalx.com/pyconapac2023/cfp"
-              >See More</MyButton
-            >
-          </div>
-          <div class="mt-10 sm:mt-0">
-            <p class="pt-5 text-2xl text-center en-regular-font">
               We need volunteers
             </p>
             <p class="pt-2 text-sm text-center jp-title-font">
